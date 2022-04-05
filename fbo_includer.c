@@ -1,0 +1,5 @@
+#include "GLee.h"
+#include "OpenGL/gl.h"
+#include "GLUT/glut.h"
+#include "OpenGL/glext.h"
+#include "OpenGL/glu.h"
